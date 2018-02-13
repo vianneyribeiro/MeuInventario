@@ -22,7 +22,7 @@
     <string name="email">E-mail</string>
     <string name="order_message">Pedido por email ou telefone?</string>
     <string name="delete_message">Deseja realmente apagar?</string>
-    <string name="delete">Aceitar</string>
+    <string name="delete">Apagar</string>
     <string name="cancel">Cancelar</string>
     <string name="empty_list_hint">Adicione cerveja para o seu inventário</string>
     <string name="action_add_dummy_data">Adicionar dados falsos</string>
