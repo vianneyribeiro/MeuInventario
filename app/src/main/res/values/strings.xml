@@ -4,7 +4,7 @@
     <string name="new_product">Adiciona novo item</string>
     <string name="hint_email_address">fornecedor@gmail.com</string>
     <string name="supplier_email_title">E-mail do fornecedor</string>
-    <string name="supplier_phone_hint">fone +55 85-000-000</string>
+    <string name="supplier_phone_hint">fone +55 8500000000</string>
     <string name="supplier_phone_title">Fone do Fornecedor</string>
     <string name="supplier_name_hint">Entre nome do Fornecedor</string>
     <string name="supplier_name_title">Nome do Fornecedor</string>
@@ -20,7 +20,7 @@
     <string name="menu_delete_all_data">Apagar todos os dados</string>
     <string name="phone">Telefone</string>
     <string name="email">E-mail</string>
-    <string name="order_message">You can place an order for this item by phone or e-mail</string>
+    <string name="order_message">Pedido por email ou telefone?</string>
     <string name="delete_message">Deseja realmente apagar?</string>
     <string name="delete">Aceitar</string>
     <string name="cancel">Cancelar</string>
@@ -31,4 +31,8 @@
     <string name="unsaved_changes_dialog_msg">Existem alterações não salvas, deseja continuar ?</string>
     <string name="discard">Descartar</string>
     <string name="keep_editing">Manter edição</string>
+    <string name="salvar_item">Salvar Item</string>
+    <string name="enviar_pedido">Enviar Pedido</string>
+    <string name="apagar_item">Apagar Item</string>
+    <string name="limpar_dados">Limpar dados</string>
 </resources>

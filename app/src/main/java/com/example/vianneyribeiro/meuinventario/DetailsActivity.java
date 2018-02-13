@@ -35,7 +35,7 @@ import com.example.vianneyribeiro.meuinventario.data.InventarioDbHelper;
 public class DetailsActivity extends AppCompatActivity{
 
     private static final int MY_PERMISSIONS_REQUEST_READ_EXTERNAL_STORAGE = 1;
-    private InventarioDbHelper dbHelper;
+    private static final int PICK_IMAGE_REQUEST = 0;
     EditText nameEdit;
     EditText priceEdit;
     EditText quantityEdit;
@@ -48,8 +48,8 @@ public class DetailsActivity extends AppCompatActivity{
     Button imageBtn;
     ImageView imageView;
     Uri actualUri;
-    private static final int PICK_IMAGE_REQUEST = 0;
     Boolean infoItemHasChanged = false;
+    private InventarioDbHelper dbHelper;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -143,9 +143,9 @@ public class DetailsActivity extends AppCompatActivity{
         String previousValueString = quantityEdit.getText().toString();
         int previousValue;
         if (previousValueString.isEmpty()) {
-            return;
+
         } else if (previousValueString.equals("0")) {
-            return;
+
         } else {
             previousValue = Integer.parseInt(previousValueString);
             quantityEdit.setText(String.valueOf(previousValue - 1));
