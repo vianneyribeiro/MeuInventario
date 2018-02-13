@@ -35,4 +35,5 @@
     <string name="enviar_pedido">Enviar Pedido</string>
     <string name="apagar_item">Apagar Item</string>
     <string name="limpar_dados">Limpar dados</string>
+    <string name="imagem_da_cerveja">imagem da cerveja</string>
 </resources>

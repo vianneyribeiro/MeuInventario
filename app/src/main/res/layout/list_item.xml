@@ -11,7 +11,7 @@
         android:layout_width="0dp"
         android:layout_height="100dp"
         android:layout_weight="2"
-        android:contentDescription="imagem da cerveja" />
+        android:contentDescription="@string/imagem_da_cerveja" />
 
     <LinearLayout
         android:layout_width="0dp"
