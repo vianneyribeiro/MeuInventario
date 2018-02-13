@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Inventário de Produtos</string>
+    <string name="sale_button">Venda</string>
+    <string name="new_product">Adiciona novo item</string>
+    <string name="hint_email_address">fornecedor@gmail.com</string>
+    <string name="supplier_email_title">E-mail do fornecedor</string>
+    <string name="supplier_phone_hint">fone +55 85-000-000</string>
+    <string name="supplier_phone_title">Fone do Fornecedor</string>
+    <string name="supplier_name_hint">Entre nome do Fornecedor</string>
+    <string name="supplier_name_title">Nome do Fornecedor</string>
+    <string name="quantity_title">Quantidade</string>
+    <string name="price_title">Preço</string>
+    <string name="product_name_title">Nome do produto</string>
+    <string name="currency_details">R$ / item</string>
+    <string name="action_save">Salva item</string>
+    <string name="editor_activity_title_new_item">Adiciona novo item</string>
+    <string name="editor_activity_title_edit_item">Edita item</string>
+    <string name="menu_order_item">Ordernar mais</string>
+    <string name="menu_delete_item">Apagar item</string>
+    <string name="menu_delete_all_data">Apagar todos os dados</string>
+    <string name="phone">Telefone</string>
+    <string name="email">E-mail</string>
+    <string name="order_message">You can place an order for this item by phone or e-mail</string>
+    <string name="delete_message">Deseja realmente apagar?</string>
+    <string name="delete">Aceitar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="empty_list_hint">Adicione cerveja para o seu inventário</string>
+    <string name="action_add_dummy_data">Adicionar dados falsos</string>
+    <string name="select_image">Selecione Imagem</string>
+    <string name="image">Imagem</string>
+    <string name="unsaved_changes_dialog_msg">Existem alterações não salvas, deseja continuar ?</string>
+    <string name="discard">Descartar</string>
+    <string name="keep_editing">Manter edição</string>
+</resources>
